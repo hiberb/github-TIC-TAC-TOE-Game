@@ -485,7 +485,7 @@ void ausgabe()
   return; 
 }
 
-//////////////////////////
+///////////////////////////
 
 //QUELLENANGABEN:
 
@@ -499,4 +499,4 @@ void ausgabe()
 // https://processing.org/reference/switch.html -> Switch Case-Anweisung
 // https://processing.org/examples/mousefunctions.html -> Um Mouse Clicked Events auszulösen
 
-/////////////////////////
+//////////////////////////
